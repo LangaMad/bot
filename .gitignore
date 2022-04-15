@@ -1,0 +1,7 @@
+__pycache__
+Bot-env
+configbot1.py
+logs
+debug.log
+
+**/logs
